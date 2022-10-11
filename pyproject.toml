@@ -7,7 +7,7 @@ authors = ["Sebastian Garcia <sebastian.garcia@wearemo.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pandas = "^1.5.0"
-dvc = {extras = ["gs"], version = "^2.29.0"}
+dvc = {extras = ["gdrive"], version = "^2.30.0"}
 opencv-python = "^4.6.0.66"
 ipykernel = "^6.16.0"
 torch = "^1.12.1"
